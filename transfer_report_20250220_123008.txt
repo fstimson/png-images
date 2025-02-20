@@ -1,0 +1,2181 @@
+Image Transfer Report
+===================
+
+Transfer Date: 2025-02-20 12:30:08
+Total Files Transferred: 543
+
+File Details:
+-------------
+
+1. Filename: Data Set #10 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #10 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #10 report - Frank Stimson.xlsx.png
+
+2. Filename: Data Set #10 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #10 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #10 report -....png
+
+3. Filename: Data Set #11 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #11 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #11 report - Frank Stimson.csv.png
+
+4. Filename: Data Set #11 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #11 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #11 report -....png
+
+5. Filename: Data Set #12 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #12 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #12 report - Frank Stimson.csv.png
+
+6. Filename: Data Set #12 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #12 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #12 report -....png
+
+7. Filename: Data Set #13 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #13 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #13 report.png
+
+8. Filename: Data Set #14 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #14 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #14 report.png
+
+9. Filename: Data Set #15 report.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #15 report.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #15 report.csv.png
+
+10. Filename: Data Set #16 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #16 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #16 report - Frank Stimson.csv.png
+
+11. Filename: Data Set #16 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #16 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #16 report -....png
+
+12. Filename: Data Set #17 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #17 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #17 report - Frank Stimson.csv.png
+
+13. Filename: Data Set #17 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #17 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #17 report -....png
+
+14. Filename: Data Set #18 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #18 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #18 report.png
+
+15. Filename: Data Set #19 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #19 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #19 report.png
+
+16. Filename: Data Set #2 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2 report - Fr....png
+
+17. Filename: Data Set #2 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2 report - Frank Stimson.xlsx.png
+
+18. Filename: Data Set #2-11 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-11 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-11 report - Frank Stimson.csv.png
+
+19. Filename: Data Set #2-11 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-11 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-11 report....png
+
+20. Filename: Data Set #2-12 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-12 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-12 report - Frank Stimson.csv.png
+
+21. Filename: Data Set #2-12 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-12 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-12 report....png
+
+22. Filename: Data Set #2-13 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-13 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-13 report - Frank Stimson.csv.png
+
+23. Filename: Data Set #2-13 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-13 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-13 report....png
+
+24. Filename: Data Set #2-14 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-14 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-14 report - Frank Stimson.csv.png
+
+25. Filename: Data Set #2-14 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-14 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-14 report....png
+
+26. Filename: Data Set #2-15 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-15 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-15 report - Frank Stimson.csv.png
+
+27. Filename: Data Set #2-15 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-15 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-15 report....png
+
+28. Filename: Data Set #2-16 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-16 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-16 report - Frank Stimson.csv.png
+
+29. Filename: Data Set #2-16 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-16 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-16 report....png
+
+30. Filename: Data Set #2-17 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-17 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-17 report - Frank Stimson.csv.png
+
+31. Filename: Data Set #2-17 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-17 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-17 report....png
+
+32. Filename: Data Set #2-18 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-18 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-18 report - Frank Stimson.csv.png
+
+33. Filename: Data Set #2-18 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-18 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-18 report....png
+
+34. Filename: Data Set #2-19 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-19 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-19 report - Frank Stimson.csv.png
+
+35. Filename: Data Set #2-19 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-19 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-19 report....png
+
+36. Filename: Data Set #2-20 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-20 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-20 report - Frank Stimson.csv.png
+
+37. Filename: Data Set #2-20 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-20 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-20 report....png
+
+38. Filename: Data Set #2-21 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-21 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-21 report - Frank Stimson.csv.png
+
+39. Filename: Data Set #2-21 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-21 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-21 report....png
+
+40. Filename: Data Set #2-22 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-22 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-22 report - Frank Stimson.csv.png
+
+41. Filename: Data Set #2-22 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-22 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-22 report....png
+
+42. Filename: Data Set #2-23 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-23 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-23 report - Frank Stimson.csv.png
+
+43. Filename: Data Set #2-23 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-23 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-23 report....png
+
+44. Filename: Data Set #2-24 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-24 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-24 report - Frank Stimson.csv.png
+
+45. Filename: Data Set #2-24 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-24 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-24 report....png
+
+46. Filename: Data Set #2-25 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-25 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-25 report - Frank Stimson.csv.png
+
+47. Filename: Data Set #2-25 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-25 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-25 report....png
+
+48. Filename: Data Set #2-26 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-26 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-26 report - Frank Stimson.csv.png
+
+49. Filename: Data Set #2-26 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-26 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-26 report....png
+
+50. Filename: Data Set #2-27 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-27 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-27 report - Frank Stimson.csv.png
+
+51. Filename: Data Set #2-27 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-27 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-27 report....png
+
+52. Filename: Data Set #2-28 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-28 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-28 report - Frank Stimson.csv.png
+
+53. Filename: Data Set #2-28 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-28 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-28 report....png
+
+54. Filename: Data Set #2-29 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-29 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-29 report - Frank Stimson.csv.png
+
+55. Filename: Data Set #2-29 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-29 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-29 report....png
+
+56. Filename: Data Set #2-30 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-30 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-30 report - Frank Stimson.csv.png
+
+57. Filename: Data Set #2-30 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-30 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-30 report....png
+
+58. Filename: Data Set #2-31 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-31 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-31 report - Frank Stimson.csv.png
+
+59. Filename: Data Set #2-31 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-31 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-31 report....png
+
+60. Filename: Data Set #2-32 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-32 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-32 report - Frank Stimson.csv.png
+
+61. Filename: Data Set #2-32 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-32 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-32 report....png
+
+62. Filename: Data Set #2-33 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-33 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-33 report - Frank Stimson.csv.png
+
+63. Filename: Data Set #2-33 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-33 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-33 report....png
+
+64. Filename: Data Set #2-34 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-34 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-34 report - Frank Stimson.csv.png
+
+65. Filename: Data Set #2-34 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-34 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-34 report....png
+
+66. Filename: Data Set #2-35 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-35 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-35 report - Frank Stimson.csv.png
+
+67. Filename: Data Set #2-35 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-35 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-35 report....png
+
+68. Filename: Data Set #2-36 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-36 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-36 report - Frank Stimson.csv.png
+
+69. Filename: Data Set #2-36 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-36 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-36 report....png
+
+70. Filename: Data Set #2-37 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-37 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-37 report - Frank Stimson.csv.png
+
+71. Filename: Data Set #2-37 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-37 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-37 report....png
+
+72. Filename: Data Set #2-38 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-38 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-38 report - Frank Stimson.csv.png
+
+73. Filename: Data Set #2-38 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-38 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-38 report....png
+
+74. Filename: Data Set #2-39 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-39 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-39 report - Frank Stimson.csv.png
+
+75. Filename: Data Set #2-39 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-39 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-39 report....png
+
+76. Filename: Data Set #2-40 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-40 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-40 report - Frank Stimson.csv.png
+
+77. Filename: Data Set #2-40 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-40 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-40 report....png
+
+78. Filename: Data Set #2-41 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-41 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-41 report - Frank Stimson.csv.png
+
+79. Filename: Data Set #2-41 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-41 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-41 report....png
+
+80. Filename: Data Set #2-42 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-42 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-42 report - Frank Stimson.csv.png
+
+81. Filename: Data Set #2-42 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #2-42 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #2-42 report....png
+
+82. Filename: Data Set #20 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #20 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #20 report - Frank Stimson.csv.png
+
+83. Filename: Data Set #20 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #20 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #20 report -....png
+
+84. Filename: Data Set #21 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #21 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #21 report.png
+
+85. Filename: Data Set #22 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #22 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #22 report - Frank Stimson.csv.png
+
+86. Filename: Data Set #22 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #22 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #22 report -....png
+
+87. Filename: Data Set #23 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #23 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #23 report.png
+
+88. Filename: Data Set #24 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #24 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #24 report - Frank Stimson.csv.png
+
+89. Filename: Data Set #24 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #24 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #24 report -....png
+
+90. Filename: Data Set #25 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #25 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #25 report - Frank Stimson.csv.png
+
+91. Filename: Data Set #25 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #25 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #25 report -....png
+
+92. Filename: Data Set #26 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #26 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #26 report - Frank Stimson.csv.png
+
+93. Filename: Data Set #26 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #26 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #26 report -....png
+
+94. Filename: Data Set #27 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #27 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #27 report.png
+
+95. Filename: Data Set #28 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #28 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #28 report - Frank Stimson.csv.png
+
+96. Filename: Data Set #28 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #28 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #28 report -....png
+
+97. Filename: Data Set #29 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #29 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #29 report.png
+
+98. Filename: Data Set #3 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3 report - Fr....png
+
+99. Filename: Data Set #3 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3 report - Frank Stimson.xlsx.png
+
+100. Filename: Data Set #3-1 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-1 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-1 report - Frank Stimson.csv.png
+
+101. Filename: Data Set #3-1 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-1 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-1 report -....png
+
+102. Filename: Data Set #3-10 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-10 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-10 report - Frank Stimson.csv.png
+
+103. Filename: Data Set #3-10 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-10 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-10 report....png
+
+104. Filename: Data Set #3-11 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-11 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-11 report - Frank Stimson.csv.png
+
+105. Filename: Data Set #3-11 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-11 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-11 report....png
+
+106. Filename: Data Set #3-12 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-12 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-12 report - Frank Stimson.csv.png
+
+107. Filename: Data Set #3-12 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-12 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-12 report....png
+
+108. Filename: Data Set #3-13 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-13 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-13 report - Frank Stimson.csv.png
+
+109. Filename: Data Set #3-13 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-13 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-13 report....png
+
+110. Filename: Data Set #3-14 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-14 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-14 report - Frank Stimson.csv.png
+
+111. Filename: Data Set #3-14 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-14 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-14 report....png
+
+112. Filename: Data Set #3-15 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-15 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-15 report - Frank Stimson.csv.png
+
+113. Filename: Data Set #3-15 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-15 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-15 report....png
+
+114. Filename: Data Set #3-16 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-16 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-16 report - Frank Stimson.csv.png
+
+115. Filename: Data Set #3-16 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-16 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-16 report....png
+
+116. Filename: Data Set #3-17 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-17 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-17 report - Frank Stimson.csv.png
+
+117. Filename: Data Set #3-17 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-17 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-17 report....png
+
+118. Filename: Data Set #3-18 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-18 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-18 report - Frank Stimson.csv.png
+
+119. Filename: Data Set #3-18 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-18 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-18 report....png
+
+120. Filename: Data Set #3-19report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-19report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-19report - Frank Stimson.csv.png
+
+121. Filename: Data Set #3-19report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-19report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-19report -....png
+
+122. Filename: Data Set #3-2 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-2 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-2 report - Frank Stimson.csv.png
+
+123. Filename: Data Set #3-2 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-2 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-2 report -....png
+
+124. Filename: Data Set #3-20 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-20 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-20 report - Frank Stimson.csv.png
+
+125. Filename: Data Set #3-20 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-20 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-20 report....png
+
+126. Filename: Data Set #3-21 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-21 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-21 report - Frank Stimson.csv.png
+
+127. Filename: Data Set #3-21 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-21 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-21 report....png
+
+128. Filename: Data Set #3-22 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-22 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-22 report - Frank Stimson.csv.png
+
+129. Filename: Data Set #3-22 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-22 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-22 report....png
+
+130. Filename: Data Set #3-23 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-23 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-23 report - Frank Stimson.csv.png
+
+131. Filename: Data Set #3-23 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-23 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-23 report....png
+
+132. Filename: Data Set #3-24 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-24 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-24 report - Frank Stimson.csv.png
+
+133. Filename: Data Set #3-24 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-24 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-24 report....png
+
+134. Filename: Data Set #3-25 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-25 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-25 report - Frank Stimson.csv.png
+
+135. Filename: Data Set #3-25 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-25 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-25 report....png
+
+136. Filename: Data Set #3-26 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-26 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-26 report - Frank Stimson.csv.png
+
+137. Filename: Data Set #3-26 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-26 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-26 report....png
+
+138. Filename: Data Set #3-27 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-27 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-27 report - Frank Stimson.csv.png
+
+139. Filename: Data Set #3-27 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-27 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-27 report....png
+
+140. Filename: Data Set #3-28 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-28 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-28 report - Frank Stimson.csv.png
+
+141. Filename: Data Set #3-28 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-28 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-28 report....png
+
+142. Filename: Data Set #3-29 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-29 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-29 report - Frank Stimson.csv.png
+
+143. Filename: Data Set #3-29 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-29 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-29 report....png
+
+144. Filename: Data Set #3-3 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-3 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-3 report - Frank Stimson.csv.png
+
+145. Filename: Data Set #3-3 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-3 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-3 report -....png
+
+146. Filename: Data Set #3-30 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-30 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-30 report - Frank Stimson.csv.png
+
+147. Filename: Data Set #3-30 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-30 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-30 report....png
+
+148. Filename: Data Set #3-31 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-31 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-31 report - Frank Stimson.csv.png
+
+149. Filename: Data Set #3-31 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-31 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-31 report....png
+
+150. Filename: Data Set #3-32 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-32 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-32 report - Frank Stimson.csv.png
+
+151. Filename: Data Set #3-32 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-32 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-32 report....png
+
+152. Filename: Data Set #3-33 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-33 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-33 report - Frank Stimson.csv.png
+
+153. Filename: Data Set #3-33 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-33 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-33 report....png
+
+154. Filename: Data Set #3-34 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-34 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-34 report - Frank Stimson.csv.png
+
+155. Filename: Data Set #3-34 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-34 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-34 report....png
+
+156. Filename: Data Set #3-35 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-35 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-35 report - Frank Stimson.csv.png
+
+157. Filename: Data Set #3-35 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-35 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-35 report....png
+
+158. Filename: Data Set #3-36 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-36 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-36 report - Frank Stimson.csv.png
+
+159. Filename: Data Set #3-36 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-36 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-36 report....png
+
+160. Filename: Data Set #3-37 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-37 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-37 report - Frank Stimson.csv.png
+
+161. Filename: Data Set #3-37 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-37 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-37 report....png
+
+162. Filename: Data Set #3-38 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-38 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-38 report - Frank Stimson.csv.png
+
+163. Filename: Data Set #3-38 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-38 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-38 report....png
+
+164. Filename: Data Set #3-39 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-39 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-39 report - Frank Stimson.csv.png
+
+165. Filename: Data Set #3-39 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-39 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-39 report....png
+
+166. Filename: Data Set #3-4 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-4 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-4 report - Frank Stimson.csv.png
+
+167. Filename: Data Set #3-4 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-4 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-4 report -....png
+
+168. Filename: Data Set #3-40 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-40 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-40 report - Frank Stimson.csv.png
+
+169. Filename: Data Set #3-40 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-40 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-40 report....png
+
+170. Filename: Data Set #3-41 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-41 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-41 report - Frank Stimson.csv.png
+
+171. Filename: Data Set #3-41 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-41 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-41 report....png
+
+172. Filename: Data Set #3-42 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-42 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-42 report - Frank Stimson.csv.png
+
+173. Filename: Data Set #3-42 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-42 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-42 report....png
+
+174. Filename: Data Set #3-43 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-43 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-43 report - Frank Stimson.csv.png
+
+175. Filename: Data Set #3-43 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-43 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-43 report....png
+
+176. Filename: Data Set #3-44 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-44 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-44 report - Frank Stimson.csv.png
+
+177. Filename: Data Set #3-44 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-44 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-44 report....png
+
+178. Filename: Data Set #3-45 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-45 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-45 report - Frank Stimson.csv.png
+
+179. Filename: Data Set #3-45 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-45 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-45 report....png
+
+180. Filename: Data Set #3-46 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-46 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-46 report - Frank Stimson.csv.png
+
+181. Filename: Data Set #3-46 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-46 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-46 report....png
+
+182. Filename: Data Set #3-47 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-47 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-47 report - Frank Stimson.csv.png
+
+183. Filename: Data Set #3-47 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-47 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-47 report....png
+
+184. Filename: Data Set #3-48 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-48 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-48 report - Frank Stimson.csv.png
+
+185. Filename: Data Set #3-48 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-48 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-48 report....png
+
+186. Filename: Data Set #3-49 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-49 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-49 report - Frank Stimson.csv.png
+
+187. Filename: Data Set #3-49 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-49 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-49 report....png
+
+188. Filename: Data Set #3-5 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-5 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-5 report - Frank Stimson.csv.png
+
+189. Filename: Data Set #3-5 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-5 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-5 report -....png
+
+190. Filename: Data Set #3-50 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-50 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-50 report - Frank Stimson.csv.png
+
+191. Filename: Data Set #3-50 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-50 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-50 report....png
+
+192. Filename: Data Set #3-51 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-51 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-51 report - Frank Stimson.csv.png
+
+193. Filename: Data Set #3-51 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-51 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-51 report....png
+
+194. Filename: Data Set #3-52 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-52 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-52 report - Frank Stimson.csv.png
+
+195. Filename: Data Set #3-52 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-52 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-52 report....png
+
+196. Filename: Data Set #3-53 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-53 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-53 report - Frank Stimson.csv.png
+
+197. Filename: Data Set #3-53 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-53 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-53 report....png
+
+198. Filename: Data Set #3-54 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-54 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-54 report - Frank Stimson.csv.png
+
+199. Filename: Data Set #3-54 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-54 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-54 report....png
+
+200. Filename: Data Set #3-55 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-55 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-55 report - Frank Stimson.csv.png
+
+201. Filename: Data Set #3-55 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-55 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-55 report....png
+
+202. Filename: Data Set #3-56 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-56 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-56 report - Frank Stimson.csv.png
+
+203. Filename: Data Set #3-56 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-56 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-56 report....png
+
+204. Filename: Data Set #3-57 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-57 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-57 report - Frank Stimson.csv.png
+
+205. Filename: Data Set #3-57 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-57 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-57 report....png
+
+206. Filename: Data Set #3-6 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-6 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-6 report - Frank Stimson.csv.png
+
+207. Filename: Data Set #3-6 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-6 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-6 report -....png
+
+208. Filename: Data Set #3-7 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-7 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-7 report - Frank Stimson.csv.png
+
+209. Filename: Data Set #3-7 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-7 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-7 report -....png
+
+210. Filename: Data Set #3-8 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-8 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-8 report - Frank Stimson.csv.png
+
+211. Filename: Data Set #3-8 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-8 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-8 report -....png
+
+212. Filename: Data Set #3-9 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-9 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-9 report - Frank Stimson.csv.png
+
+213. Filename: Data Set #3-9 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #3-9 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #3-9 report -....png
+
+214. Filename: Data Set #30 report.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #30 report.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #30 report.csv.png
+
+215. Filename: Data Set #31 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #31 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #31 report.png
+
+216. Filename: Data Set #32 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #32 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #32 report - Frank Stimson.csv.png
+
+217. Filename: Data Set #32 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #32 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #32 report -....png
+
+218. Filename: Data Set #33 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #33 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #33 report.png
+
+219. Filename: Data Set #34 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #34 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #34 report - Frank Stimson.csv.png
+
+220. Filename: Data Set #34 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #34 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #34 report -....png
+
+221. Filename: Data Set #35 report.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #35 report.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #35 report.csv.png
+
+222. Filename: Data Set #36 report.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #36 report.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #36 report.png
+
+223. Filename: Data Set #37 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #37 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #37 report - Frank Stimson.xlsx.png
+
+224. Filename: Data Set #37 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #37 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #37 report -....png
+
+225. Filename: Data Set #38 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #38 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #38 report - Frank Stimson.csv.png
+
+226. Filename: Data Set #38 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #38 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #38 report -....png
+
+227. Filename: Data Set #39 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #39 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #39 report - Frank Stimson.csv.png
+
+228. Filename: Data Set #39 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #39 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #39 report -....png
+
+229. Filename: Data Set #4 report.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4 report.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4 report.xlsx.png
+
+230. Filename: Data Set #4-01 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-01 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-01 report - Frank Stimson.csv.png
+
+231. Filename: Data Set #4-01 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-01 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-01 report....png
+
+232. Filename: Data Set #4-02 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-02 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-02 report - Frank Stimson.csv.png
+
+233. Filename: Data Set #4-02 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-02 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-02 report....png
+
+234. Filename: Data Set #4-03 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-03 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-03 report - Frank Stimson.csv.png
+
+235. Filename: Data Set #4-03 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-03 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-03 report....png
+
+236. Filename: Data Set #4-04 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-04 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-04 report - Frank Stimson.csv.png
+
+237. Filename: Data Set #4-04 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-04 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-04 report....png
+
+238. Filename: Data Set #4-05 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-05 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-05 report - Frank Stimson.csv.png
+
+239. Filename: Data Set #4-05 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-05 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-05 report....png
+
+240. Filename: Data Set #4-06 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-06 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-06 report - Frank Stimson.csv.png
+
+241. Filename: Data Set #4-06 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-06 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-06 report....png
+
+242. Filename: Data Set #4-07 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-07 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-07 report - Frank Stimson.csv.png
+
+243. Filename: Data Set #4-07 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-07 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-07 report....png
+
+244. Filename: Data Set #4-08 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-08 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-08 report - Frank Stimson.csv.png
+
+245. Filename: Data Set #4-08 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-08 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-08 report....png
+
+246. Filename: Data Set #4-09 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-09 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-09 report - Frank Stimson.csv.png
+
+247. Filename: Data Set #4-09 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-09 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-09 report....png
+
+248. Filename: Data Set #4-10 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-10 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-10 report - Frank Stimson.csv.png
+
+249. Filename: Data Set #4-10 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-10 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-10 report....png
+
+250. Filename: Data Set #4-11 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-11 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-11 report - Frank Stimson.csv.png
+
+251. Filename: Data Set #4-11 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-11 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-11 report....png
+
+252. Filename: Data Set #4-12 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-12 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-12 report - Frank Stimson.csv.png
+
+253. Filename: Data Set #4-12 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-12 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-12 report....png
+
+254. Filename: Data Set #4-13 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-13 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-13 report - Frank Stimson.csv.png
+
+255. Filename: Data Set #4-13 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-13 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-13 report....png
+
+256. Filename: Data Set #4-14 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-14 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-14 report - Frank Stimson.csv.png
+
+257. Filename: Data Set #4-14 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-14 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-14 report....png
+
+258. Filename: Data Set #4-15 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-15 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-15 report - Frank Stimson.csv.png
+
+259. Filename: Data Set #4-15 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-15 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-15 report....png
+
+260. Filename: Data Set #4-16 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-16 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-16 report - Frank Stimson.csv.png
+
+261. Filename: Data Set #4-16 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-16 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-16 report....png
+
+262. Filename: Data Set #4-17 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-17 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-17 report - Frank Stimson.csv.png
+
+263. Filename: Data Set #4-17 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-17 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-17 report....png
+
+264. Filename: Data Set #4-18 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-18 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-18 report - Frank Stimson.csv.png
+
+265. Filename: Data Set #4-18 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-18 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-18 report....png
+
+266. Filename: Data Set #4-19 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-19 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-19 report - Frank Stimson.csv.png
+
+267. Filename: Data Set #4-19 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #4-19 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #4-19 report....png
+
+268. Filename: Data Set #40 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #40 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #40 report - Frank Stimson.xlsx.png
+
+269. Filename: Data Set #40 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #40 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #40 report -....png
+
+270. Filename: Data Set #41 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #41 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #41 report - Frank Stimson.csv.png
+
+271. Filename: Data Set #41 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #41 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #41 report -....png
+
+272. Filename: Data Set #42 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #42 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #42 report - Frank Stimson.csv.png
+
+273. Filename: Data Set #42 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #42 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #42 report -....png
+
+274. Filename: Data Set #43 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #43 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #43 report - Frank Stimson.csv.png
+
+275. Filename: Data Set #43 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #43 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #43 report -....png
+
+276. Filename: Data Set #44 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #44 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #44 report - Frank Stimson.csv.png
+
+277. Filename: Data Set #44 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #44 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #44 report -....png
+
+278. Filename: Data Set #45 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #45 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #45 report - Frank Stimson.csv.png
+
+279. Filename: Data Set #45 report -....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #45 report -....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #45 report -....png
+
+280. Filename: Data Set #5 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5 report - Fr....png
+
+281. Filename: Data Set #5 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5 report - Frank Stimson.xlsx.png
+
+282. Filename: Data Set #5-39 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-39 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-39 report - Frank Stimson.csv.png
+
+283. Filename: Data Set #5-39 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-39 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-39 report....png
+
+284. Filename: Data Set #5-40 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-40 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-40 report - Frank Stimson.csv.png
+
+285. Filename: Data Set #5-40 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-40 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-40 report....png
+
+286. Filename: Data Set #5-41 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-41 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-41 report - Frank Stimson.csv.png
+
+287. Filename: Data Set #5-41 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-41 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-41 report....png
+
+288. Filename: Data Set #5-42 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-42 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-42 report - Frank Stimson.csv.png
+
+289. Filename: Data Set #5-42 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-42 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-42 report....png
+
+290. Filename: Data Set #5-43 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-43 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-43 report - Frank Stimson.csv.png
+
+291. Filename: Data Set #5-43 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-43 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-43 report....png
+
+292. Filename: Data Set #5-44 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-44 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-44 report - Frank Stimson.csv.png
+
+293. Filename: Data Set #5-44 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-44 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-44 report....png
+
+294. Filename: Data Set #5-45 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-45 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-45 report - Frank Stimson.csv.png
+
+295. Filename: Data Set #5-45 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-45 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-45 report....png
+
+296. Filename: Data Set #5-46 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-46 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-46 report - Frank Stimson.csv.png
+
+297. Filename: Data Set #5-46 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-46 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-46 report....png
+
+298. Filename: Data Set #5-47 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-47 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-47 report - Frank Stimson.csv.png
+
+299. Filename: Data Set #5-47 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-47 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-47 report....png
+
+300. Filename: Data Set #5-48 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-48 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-48 report - Frank Stimson.csv.png
+
+301. Filename: Data Set #5-48 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-48 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-48 report....png
+
+302. Filename: Data Set #5-49 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-49 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-49 report - Frank Stimson.csv.png
+
+303. Filename: Data Set #5-49 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-49 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-49 report....png
+
+304. Filename: Data Set #5-50 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-50 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-50 report - Frank Stimson.csv.png
+
+305. Filename: Data Set #5-50 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-50 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-50 report....png
+
+306. Filename: Data Set #5-51 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-51 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-51 report - Frank Stimson.csv.png
+
+307. Filename: Data Set #5-51 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-51 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-51 report....png
+
+308. Filename: Data Set #5-52 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-52 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-52 report - Frank Stimson.csv.png
+
+309. Filename: Data Set #5-52 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-52 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-52 report....png
+
+310. Filename: Data Set #5-53 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-53 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-53 report - Frank Stimson.csv.png
+
+311. Filename: Data Set #5-53 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-53 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-53 report....png
+
+312. Filename: Data Set #5-54 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-54 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-54 report - Frank Stimson.csv.png
+
+313. Filename: Data Set #5-54 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-54 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-54 report....png
+
+314. Filename: Data Set #5-55 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-55 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-55 report - Frank Stimson.csv.png
+
+315. Filename: Data Set #5-55 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-55 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-55 report....png
+
+316. Filename: Data Set #5-56 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-56 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-56 report - Frank Stimson.csv.png
+
+317. Filename: Data Set #5-56 report....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #5-56 report....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #5-56 report....png
+
+318. Filename: Data Set #6 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #6 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #6 report - Fr....png
+
+319. Filename: Data Set #6 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #6 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #6 report - Frank Stimson.xlsx.png
+
+320. Filename: Data Set #7 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #7 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #7 report - Fr....png
+
+321. Filename: Data Set #7 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #7 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #7 report - Frank Stimson.xlsx.png
+
+322. Filename: Data Set #8 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #8 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #8 report - Fr....png
+
+323. Filename: Data Set #8 report - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #8 report - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #8 report - Frank Stimson.xlsx.png
+
+324. Filename: Data Set #9 report - Fr....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #9 report - Fr....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #9 report - Fr....png
+
+325. Filename: Data Set #9 report - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\Data Set #9 report - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\Data Set #9 report - Frank Stimson.csv.png
+
+326. Filename: DS-17-1 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-1 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-1 - Frank Stims....png
+
+327. Filename: DS-17-1 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-1 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-1 - Frank Stimson.csv.png
+
+328. Filename: DS-17-10 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-10 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-10 - Frank Stim....png
+
+329. Filename: DS-17-10 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-10 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-10 - Frank Stimson.csv.png
+
+330. Filename: DS-17-11 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-11 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-11 - Frank Stim....png
+
+331. Filename: DS-17-11 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-11 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-11 - Frank Stimson.csv.png
+
+332. Filename: DS-17-12 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-12 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-12 - Frank Stim....png
+
+333. Filename: DS-17-12 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-12 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-12 - Frank Stimson.csv.png
+
+334. Filename: DS-17-13 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-13 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-13 - Frank Stim....png
+
+335. Filename: DS-17-13 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-13 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-13 - Frank Stimson.csv.png
+
+336. Filename: DS-17-14 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-14 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-14 - Frank Stim....png
+
+337. Filename: DS-17-14 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-14 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-14 - Frank Stimson.csv.png
+
+338. Filename: DS-17-15 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-15 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-15 - Frank Stim....png
+
+339. Filename: DS-17-15 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-15 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-15 - Frank Stimson.csv.png
+
+340. Filename: DS-17-16 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-16 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-16 - Frank Stim....png
+
+341. Filename: DS-17-16 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-16 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-16 - Frank Stimson.csv.png
+
+342. Filename: DS-17-17 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-17 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-17 - Frank Stim....png
+
+343. Filename: DS-17-17 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-17 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-17 - Frank Stimson.csv.png
+
+344. Filename: DS-17-18 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-18 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-18 - Frank Stim....png
+
+345. Filename: DS-17-18 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-18 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-18 - Frank Stimson.csv.png
+
+346. Filename: DS-17-19 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-19 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-19 - Frank Stim....png
+
+347. Filename: DS-17-19 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-19 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-19 - Frank Stimson.csv.png
+
+348. Filename: DS-17-2 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-2 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-2 - Frank Stims....png
+
+349. Filename: DS-17-2 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-2 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-2 - Frank Stimson.csv.png
+
+350. Filename: DS-17-20 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-20 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-20 - Frank Stim....png
+
+351. Filename: DS-17-20 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-20 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-20 - Frank Stimson.csv.png
+
+352. Filename: DS-17-21 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-21 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-21 - Frank Stim....png
+
+353. Filename: DS-17-21 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-21 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-21 - Frank Stimson.csv.png
+
+354. Filename: DS-17-22 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-22 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-22 - Frank Stim....png
+
+355. Filename: DS-17-22 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-22 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-22 - Frank Stimson.csv.png
+
+356. Filename: DS-17-23 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-23 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-23 - Frank Stim....png
+
+357. Filename: DS-17-23 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-23 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-23 - Frank Stimson.csv.png
+
+358. Filename: DS-17-24 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-24 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-24 - Frank Stim....png
+
+359. Filename: DS-17-24 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-24 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-24 - Frank Stimson.csv.png
+
+360. Filename: DS-17-25 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-25 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-25 - Frank Stim....png
+
+361. Filename: DS-17-25 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-25 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-25 - Frank Stimson.csv.png
+
+362. Filename: DS-17-26 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-26 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-26 - Frank Stim....png
+
+363. Filename: DS-17-26 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-26 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-26 - Frank Stimson.csv.png
+
+364. Filename: DS-17-27 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-27 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-27 - Frank Stim....png
+
+365. Filename: DS-17-27 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-27 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-27 - Frank Stimson.csv.png
+
+366. Filename: DS-17-28 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-28 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-28 - Frank Stim....png
+
+367. Filename: DS-17-28 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-28 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-28 - Frank Stimson.csv.png
+
+368. Filename: DS-17-29 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-29 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-29 - Frank Stim....png
+
+369. Filename: DS-17-29 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-29 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-29 - Frank Stimson.csv.png
+
+370. Filename: DS-17-3 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-3 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-3 - Frank Stims....png
+
+371. Filename: DS-17-3 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-3 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-3 - Frank Stimson.csv.png
+
+372. Filename: DS-17-30 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-30 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-30 - Frank Stim....png
+
+373. Filename: DS-17-30 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-30 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-30 - Frank Stimson.csv.png
+
+374. Filename: DS-17-31 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-31 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-31 - Frank Stim....png
+
+375. Filename: DS-17-31 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-31 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-31 - Frank Stimson.csv.png
+
+376. Filename: DS-17-32 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-32 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-32 - Frank Stim....png
+
+377. Filename: DS-17-32 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-32 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-32 - Frank Stimson.csv.png
+
+378. Filename: DS-17-33 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-33 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-33 - Frank Stim....png
+
+379. Filename: DS-17-33 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-33 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-33 - Frank Stimson.csv.png
+
+380. Filename: DS-17-34 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-34 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-34 - Frank Stim....png
+
+381. Filename: DS-17-34 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-34 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-34 - Frank Stimson.csv.png
+
+382. Filename: DS-17-35 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-35 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-35 - Frank Stim....png
+
+383. Filename: DS-17-35 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-35 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-35 - Frank Stimson.csv.png
+
+384. Filename: DS-17-36 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-36 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-36 - Frank Stim....png
+
+385. Filename: DS-17-36 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-36 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-36 - Frank Stimson.csv.png
+
+386. Filename: DS-17-37 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-37 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-37 - Frank Stim....png
+
+387. Filename: DS-17-37 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-37 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-37 - Frank Stimson.csv.png
+
+388. Filename: DS-17-38 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-38 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-38 - Frank Stim....png
+
+389. Filename: DS-17-38 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-38 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-38 - Frank Stimson.csv.png
+
+390. Filename: DS-17-39 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-39 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-39 - Frank Stim....png
+
+391. Filename: DS-17-39 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-39 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-39 - Frank Stimson.csv.png
+
+392. Filename: DS-17-4 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-4 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-4 - Frank Stims....png
+
+393. Filename: DS-17-4 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-4 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-4 - Frank Stimson.csv.png
+
+394. Filename: DS-17-40 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-40 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-40 - Frank Stim....png
+
+395. Filename: DS-17-40 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-40 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-40 - Frank Stimson.csv.png
+
+396. Filename: DS-17-41 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-41 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-41 - Frank Stim....png
+
+397. Filename: DS-17-41 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-41 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-41 - Frank Stimson.csv.png
+
+398. Filename: DS-17-42 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-42 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-42 - Frank Stim....png
+
+399. Filename: DS-17-42 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-42 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-42 - Frank Stimson.csv.png
+
+400. Filename: DS-17-43 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-43 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-43 - Frank Stim....png
+
+401. Filename: DS-17-43 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-43 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-43 - Frank Stimson.csv.png
+
+402. Filename: DS-17-44 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-44 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-44 - Frank Stim....png
+
+403. Filename: DS-17-44 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-44 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-44 - Frank Stimson.csv.png
+
+404. Filename: DS-17-45 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-45 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-45 - Frank Stim....png
+
+405. Filename: DS-17-45 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-45 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-45 - Frank Stimson.csv.png
+
+406. Filename: DS-17-46 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-46 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-46 - Frank Stim....png
+
+407. Filename: DS-17-46 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-46 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-46 - Frank Stimson.csv.png
+
+408. Filename: DS-17-47 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-47 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-47 - Frank Stim....png
+
+409. Filename: DS-17-47 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-47 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-47 - Frank Stimson.csv.png
+
+410. Filename: DS-17-48 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-48 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-48 - Frank Stim....png
+
+411. Filename: DS-17-48 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-48 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-48 - Frank Stimson.csv.png
+
+412. Filename: DS-17-49 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-49 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-49 - Frank Stim....png
+
+413. Filename: DS-17-49 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-49 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-49 - Frank Stimson.csv.png
+
+414. Filename: DS-17-5 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-5 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-5 - Frank Stims....png
+
+415. Filename: DS-17-5 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-5 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-5 - Frank Stimson.csv.png
+
+416. Filename: DS-17-50 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-50 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-50 - Frank Stim....png
+
+417. Filename: DS-17-50 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-50 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-50 - Frank Stimson.csv.png
+
+418. Filename: DS-17-51 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-51 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-51 - Frank Stim....png
+
+419. Filename: DS-17-51 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-51 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-51 - Frank Stimson.csv.png
+
+420. Filename: DS-17-52 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-52 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-52 - Frank Stim....png
+
+421. Filename: DS-17-52 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-52 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-52 - Frank Stimson.csv.png
+
+422. Filename: DS-17-6 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-6 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-6 - Frank Stims....png
+
+423. Filename: DS-17-6 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-6 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-6 - Frank Stimson.csv.png
+
+424. Filename: DS-17-7 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-7 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-7 - Frank Stims....png
+
+425. Filename: DS-17-7 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-7 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-7 - Frank Stimson.csv.png
+
+426. Filename: DS-17-8 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-8 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-8 - Frank Stims....png
+
+427. Filename: DS-17-8 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-8 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-8 - Frank Stimson.csv.png
+
+428. Filename: DS-17-9 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-9 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-9 - Frank Stims....png
+
+429. Filename: DS-17-9 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-17-9 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-17-9 - Frank Stimson.csv.png
+
+430. Filename: DS-18-1 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-1 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-1 - Frank Stims....png
+
+431. Filename: DS-18-1 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-1 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-1 - Frank Stimson.csv.png
+
+432. Filename: DS-18-10 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-10 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-10 - Frank Stim....png
+
+433. Filename: DS-18-10 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-10 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-10 - Frank Stimson.csv.png
+
+434. Filename: DS-18-11 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-11 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-11 - Frank Stim....png
+
+435. Filename: DS-18-11 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-11 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-11 - Frank Stimson.csv.png
+
+436. Filename: DS-18-12 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-12 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-12 - Frank Stim....png
+
+437. Filename: DS-18-12 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-12 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-12 - Frank Stimson.csv.png
+
+438. Filename: DS-18-13 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-13 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-13 - Frank Stim....png
+
+439. Filename: DS-18-13 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-13 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-13 - Frank Stimson.csv.png
+
+440. Filename: DS-18-14 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-14 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-14 - Frank Stim....png
+
+441. Filename: DS-18-14 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-14 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-14 - Frank Stimson.csv.png
+
+442. Filename: DS-18-15 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-15 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-15 - Frank Stim....png
+
+443. Filename: DS-18-15 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-15 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-15 - Frank Stimson.csv.png
+
+444. Filename: DS-18-16 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-16 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-16 - Frank Stim....png
+
+445. Filename: DS-18-16 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-16 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-16 - Frank Stimson.csv.png
+
+446. Filename: DS-18-17 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-17 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-17 - Frank Stim....png
+
+447. Filename: DS-18-17 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-17 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-17 - Frank Stimson.csv.png
+
+448. Filename: DS-18-18 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-18 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-18 - Frank Stim....png
+
+449. Filename: DS-18-18 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-18 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-18 - Frank Stimson.csv.png
+
+450. Filename: DS-18-19 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-19 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-19 - Frank Stim....png
+
+451. Filename: DS-18-19 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-19 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-19 - Frank Stimson.csv.png
+
+452. Filename: DS-18-2 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-2 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-2 - Frank Stims....png
+
+453. Filename: DS-18-2 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-2 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-2 - Frank Stimson.csv.png
+
+454. Filename: DS-18-20 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-20 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-20 - Frank Stim....png
+
+455. Filename: DS-18-20 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-20 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-20 - Frank Stimson.csv.png
+
+456. Filename: DS-18-21 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-21 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-21 - Frank Stim....png
+
+457. Filename: DS-18-21 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-21 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-21 - Frank Stimson.csv.png
+
+458. Filename: DS-18-22 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-22 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-22 - Frank Stim....png
+
+459. Filename: DS-18-22 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-22 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-22 - Frank Stimson.csv.png
+
+460. Filename: DS-18-23 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-23 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-23 - Frank Stim....png
+
+461. Filename: DS-18-23 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-23 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-23 - Frank Stimson.csv.png
+
+462. Filename: DS-18-24 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-24 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-24 - Frank Stim....png
+
+463. Filename: DS-18-24 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-24 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-24 - Frank Stimson.csv.png
+
+464. Filename: DS-18-25 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-25 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-25 - Frank Stim....png
+
+465. Filename: DS-18-25 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-25 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-25 - Frank Stimson.csv.png
+
+466. Filename: DS-18-26 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-26 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-26 - Frank Stim....png
+
+467. Filename: DS-18-26 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-26 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-26 - Frank Stimson.csv.png
+
+468. Filename: DS-18-27 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-27 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-27 - Frank Stim....png
+
+469. Filename: DS-18-27 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-27 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-27 - Frank Stimson.csv.png
+
+470. Filename: DS-18-28 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-28 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-28 - Frank Stim....png
+
+471. Filename: DS-18-28 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-28 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-28 - Frank Stimson.csv.png
+
+472. Filename: DS-18-29 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-29 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-29 - Frank Stim....png
+
+473. Filename: DS-18-29 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-29 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-29 - Frank Stimson.csv.png
+
+474. Filename: DS-18-3 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-3 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-3 - Frank Stims....png
+
+475. Filename: DS-18-3 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-3 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-3 - Frank Stimson.csv.png
+
+476. Filename: DS-18-30 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-30 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-30 - Frank Stim....png
+
+477. Filename: DS-18-30 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-30 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-30 - Frank Stimson.csv.png
+
+478. Filename: DS-18-31 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-31 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-31 - Frank Stim....png
+
+479. Filename: DS-18-31 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-31 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-31 - Frank Stimson.csv.png
+
+480. Filename: DS-18-32 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-32 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-32 - Frank Stim....png
+
+481. Filename: DS-18-32 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-32 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-32 - Frank Stimson.csv.png
+
+482. Filename: DS-18-33 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-33 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-33 - Frank Stim....png
+
+483. Filename: DS-18-33 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-33 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-33 - Frank Stimson.csv.png
+
+484. Filename: DS-18-34 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-34 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-34 - Frank Stim....png
+
+485. Filename: DS-18-34 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-34 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-34 - Frank Stimson.csv.png
+
+486. Filename: DS-18-35 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-35 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-35 - Frank Stim....png
+
+487. Filename: DS-18-35 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-35 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-35 - Frank Stimson.csv.png
+
+488. Filename: DS-18-36 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-36 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-36 - Frank Stim....png
+
+489. Filename: DS-18-36 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-36 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-36 - Frank Stimson.csv.png
+
+490. Filename: DS-18-37 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-37 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-37 - Frank Stim....png
+
+491. Filename: DS-18-37 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-37 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-37 - Frank Stimson.csv.png
+
+492. Filename: DS-18-38 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-38 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-38 - Frank Stim....png
+
+493. Filename: DS-18-38 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-38 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-38 - Frank Stimson.csv.png
+
+494. Filename: DS-18-39 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-39 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-39 - Frank Stim....png
+
+495. Filename: DS-18-39 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-39 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-39 - Frank Stimson.csv.png
+
+496. Filename: DS-18-4 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-4 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-4 - Frank Stims....png
+
+497. Filename: DS-18-4 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-4 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-4 - Frank Stimson.csv.png
+
+498. Filename: DS-18-40 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-40 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-40 - Frank Stim....png
+
+499. Filename: DS-18-40 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-40 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-40 - Frank Stimson.csv.png
+
+500. Filename: DS-18-41 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-41 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-41 - Frank Stim....png
+
+501. Filename: DS-18-41 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-41 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-41 - Frank Stimson.csv.png
+
+502. Filename: DS-18-42 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-42 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-42 - Frank Stim....png
+
+503. Filename: DS-18-42 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-42 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-42 - Frank Stimson.csv.png
+
+504. Filename: DS-18-43 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-43 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-43 - Frank Stim....png
+
+505. Filename: DS-18-43 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-43 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-43 - Frank Stimson.csv.png
+
+506. Filename: DS-18-44 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-44 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-44 - Frank Stim....png
+
+507. Filename: DS-18-44 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-44 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-44 - Frank Stimson.csv.png
+
+508. Filename: DS-18-45 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-45 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-45 - Frank Stim....png
+
+509. Filename: DS-18-45 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-45 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-45 - Frank Stimson.csv.png
+
+510. Filename: DS-18-46 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-46 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-46 - Frank Stim....png
+
+511. Filename: DS-18-46 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-46 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-46 - Frank Stimson.csv.png
+
+512. Filename: DS-18-47 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-47 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-47 - Frank Stim....png
+
+513. Filename: DS-18-47 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-47 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-47 - Frank Stimson.csv.png
+
+514. Filename: DS-18-48 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-48 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-48 - Frank Stim....png
+
+515. Filename: DS-18-48 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-48 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-48 - Frank Stimson.csv.png
+
+516. Filename: DS-18-49 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-49 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-49 - Frank Stim....png
+
+517. Filename: DS-18-49 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-49 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-49 - Frank Stimson.csv.png
+
+518. Filename: DS-18-5 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-5 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-5 - Frank Stims....png
+
+519. Filename: DS-18-5 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-5 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-5 - Frank Stimson.csv.png
+
+520. Filename: DS-18-50 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-50 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-50 - Frank Stim....png
+
+521. Filename: DS-18-50 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-50 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-50 - Frank Stimson.csv.png
+
+522. Filename: DS-18-51 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-51 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-51 - Frank Stim....png
+
+523. Filename: DS-18-51 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-51 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-51 - Frank Stimson.csv.png
+
+524. Filename: DS-18-52 - Frank Stim....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-52 - Frank Stim....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-52 - Frank Stim....png
+
+525. Filename: DS-18-52 - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-52 - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-52 - Frank Stimson.xlsx.png
+
+526. Filename: DS-18-6 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-6 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-6 - Frank Stims....png
+
+527. Filename: DS-18-6 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-6 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-6 - Frank Stimson.csv.png
+
+528. Filename: DS-18-7 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-7 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-7 - Frank Stims....png
+
+529. Filename: DS-18-7 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-7 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-7 - Frank Stimson.csv.png
+
+530. Filename: DS-18-8 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-8 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-8 - Frank Stims....png
+
+531. Filename: DS-18-8 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-8 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-8 - Frank Stimson.csv.png
+
+532. Filename: DS-18-9 - Frank Stims....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-9 - Frank Stims....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-9 - Frank Stims....png
+
+533. Filename: DS-18-9 - Frank Stimson.csv.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\DS-18-9 - Frank Stimson.csv.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\DS-18-9 - Frank Stimson.csv.png
+
+534. Filename: selling data set - Frank Stimson.xlsx.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\selling data set - Frank Stimson.xlsx.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\selling data set - Frank Stimson.xlsx.png
+
+535. Filename: selling data set - Frank....png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\selling data set - Frank....png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\selling data set - Frank....png
+
+536. Filename: status_Appeal Rejected.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Appeal Rejected.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Appeal Rejected.png
+
+537. Filename: status_Appeal.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Appeal.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Appeal.png
+
+538. Filename: status_Approved.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Approved.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Approved.png
+
+539. Filename: status_DS Submitted.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_DS Submitted.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_DS Submitted.png
+
+540. Filename: status_Paid.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Paid.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Paid.png
+
+541. Filename: status_Rejected.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Rejected.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Rejected.png
+
+542. Filename: status_Removed.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Removed.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Removed.png
+
+543. Filename: status_Review.png
+   Source: C:\Users\fstim\OneDrive\Remotasks\images\png\status_Review.png
+   Destination: C:\Users\fstim\OneDrive\GitHub\png-images\status_Review.png
+
